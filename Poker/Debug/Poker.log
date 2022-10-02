@@ -1,0 +1,8 @@
+﻿  Poker.cpp
+C:\Users\andre\Documents\VisualStudio2019\Poker\Poker\Poker.cpp(113,33): warning C4101: 'card': unreferenced local variable
+C:\Users\andre\Documents\VisualStudio2019\Poker\Poker\Poker.cpp(299,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\andre\Documents\VisualStudio2019\Poker\Poker\Poker.cpp(299,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\andre\Documents\VisualStudio2019\Poker\Poker\Poker.cpp(339,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\andre\Documents\VisualStudio2019\Poker\Poker\Poker.cpp(423,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\andre\Documents\VisualStudio2019\Poker\Poker\Poker.cpp(542): warning C4715: 'opponent_AI': not all control paths return a value
+  Poker.vcxproj -> C:\Users\andre\Documents\VisualStudio2019\Poker\Debug\Poker.exe
